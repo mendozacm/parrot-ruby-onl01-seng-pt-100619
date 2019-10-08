@@ -1,4 +1,4 @@
 def parrot(string = "Squawk!")
-  puts string
+  print string
 end
   
