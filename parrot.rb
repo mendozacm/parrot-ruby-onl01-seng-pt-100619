@@ -1,4 +1,5 @@
 def parrot(string = "Squawk!")
-  p string
+  print string
+  return
 end
   
